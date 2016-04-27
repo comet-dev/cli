@@ -19,4 +19,4 @@ npm install comet-cli
 - ```comet init <appfolder>```
 - ```comet build <app> <build>```
 - ```comet install <app or package>```
--``` comet publish <app or package>```
+- ```comet publish <app or package>```
