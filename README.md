@@ -20,6 +20,7 @@ npm install comet-cli
 - ```comet build <app> <build>```
 - ```comet install <app or package>```
 - ```comet publish <app or package>```
+
 ## Contributing
 - To contribute, look through to see if any mistakes are present.
 - Download the library and binaries with ```npm install```
