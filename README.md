@@ -6,3 +6,17 @@
 # CLI
 
 A CLI fit for CometJS, making it easier to create an app, or serve it to a running client. This cli practically holds the job of developing a faster workflow, and simple commands, to achieve simple tasks.
+
+## Usage
+[npm](npmjs.org) install to get started!
+
+```sh
+npm install comet-cli
+```
+### List of Available Commands
+- ```comet serve <app>```
+- ```comet new <appname>```
+- ```comet init <appfolder>```
+- ```comet build <app> <build>```
+- ```comet install <app or package>```
+-``` comet publish <app or package>```
