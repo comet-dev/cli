@@ -1,0 +1,26 @@
+{
+  "name": "comet-cli",
+  "version": "1.0.0",
+  "description": "Command line interface for CometJS.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comet-dev/cli.git"
+  },
+  "keywords": [
+    "comet",
+    "cli"
+  ],
+  "author": "Moses Grant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/comet-dev/cli/issues"
+  },
+  "homepage": "https://github.com/comet-dev/cli#readme"
+}
