@@ -6,8 +6,19 @@
   "directories": {
     "doc": "docs"
   },
+  "devDependencies": {
+      "jshint": "^2.8.1",
+      "browserify": "^13.0.0",
+      "gulp": "^3.9.1",
+      "grunt": "0.4.0-rc8"
+    },
+    
+    "dependencies": {
+     "CometJS":"^2.1.0" 
+    },  
+  
   "scripts": {
-    "test": "gulp test"
+    "test": "./node_modules/jshint/bin/jshint comet-cli"
   },
   "repository": {
     "type": "git",
