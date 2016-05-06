@@ -15,9 +15,10 @@ npm install comet-cli
 ```
 ### List of Available Commands
 - ```comet serve <app>```
-- ```comet new <appname>```
+- ```comet new <appname or packagename>```
 - ```comet init <appfolder>```
 - ```comet build <app> <build>```
+- ```comet test <app, package or build>```
 - ```comet install <app or package>```
 - ```comet publish <app or package>```
 
@@ -25,4 +26,4 @@ npm install comet-cli
 - To contribute, look through to see if any mistakes are present.
 - Download the library and binaries with ```npm install```
 - Send an issue, or a bug.
-- Pull requests are open, too.
+- Pull requests are open too.
