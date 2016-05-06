@@ -7,7 +7,7 @@
     "doc": "docs"
   },
   "scripts": {
-    "test": "cli.js"
+    "test": "gulp test"
   },
   "repository": {
     "type": "git",
@@ -26,4 +26,4 @@
 }
 
 
->>>>>>> f5a4f5cb51e98d5282c7e28b8c1c70fff200b30e
+
