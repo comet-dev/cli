@@ -6,7 +6,7 @@
   },
   "description": "Command line interface for CometJS",
   "author": "mosesag0813",
-  "version": "1.0.0",
+  "version": "0.6.0",
   "devDependencies": {
     "jshint": "^2.8.0"
   },
