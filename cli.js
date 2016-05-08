@@ -1,1 +1,1 @@
-require('cli').(process.argv);
+require('cli') + (process.argv);
