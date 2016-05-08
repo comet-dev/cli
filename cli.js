@@ -1,3 +1,4 @@
 var test = require('comet-test');
-require('cli') + (process.argv);
+require('cli');
+test(process.argv);
 
