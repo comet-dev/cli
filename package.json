@@ -10,6 +10,9 @@
   "devDependencies": {
     "jshint": "^2.8.0"
   },
+  "dependencies":{
+    "CometJS":"^1.0.3"
+  },
   "scripts": {
     "test": "./node_modules/jshint/bin/jshint cli.js"
   }
