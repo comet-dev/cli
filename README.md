@@ -3,8 +3,7 @@
 <img src="https://raw.githubusercontent.com/comet-dev/cli/master/Drawing%20(6).png" width="180">
 </a>
 </p>
-# CLI   
-[![Build Status](https://travis-ci.org/comet-dev/cli.svg?branch=master)](https://travis-ci.org/comet-dev/cli)
+# CLI   [![Build Status](https://travis-ci.org/comet-dev/cli.svg?branch=master)](https://travis-ci.org/comet-dev/cli) [![Dependency Status](https://david-dm.org/comet-dev/cli.svg)](https://david-dm.org/comet-dev/cli)[![devDependency Status](https://david-dm.org/comet-dev/cli/dev-status.svg)](https://david-dm.org/comet-dev/cli#info=devDependencies)
 
 A CLI fit for CometJS, making it easier to create an app, or serve it to a running client. This cli practically holds the job of developing a faster workflow, and simple commands, to achieve simple tasks.
 
