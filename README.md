@@ -14,13 +14,15 @@ A CLI fit for CometJS, making it easier to create an app, or serve it to a runni
 npm install comet-cli
 ```
 ### List of Available Commands
-- ```comet serve <app>```
 - ```comet new <appname or packagename>```
-- ```comet init <appfolder>```
 - ```comet build <app> <build>```
+
+### Unavailable Commands (WIP)
+- ```comet init <appfolder>```
 - ```comet test <app, package or build>```
 - ```comet install <app or package>```
 - ```comet publish <app or package>```
+- ```comet serve <app>```
 
 ## Contributing
 - To contribute, look through to see if any mistakes are present.
