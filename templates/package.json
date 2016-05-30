@@ -1,0 +1,19 @@
+{
+ "name": "New-Comet-App",
+ "version": "1.0.0",
+ "author": "Your-Name-Here",
+ "description": "A new Comet app, a new beginning.",
+ "bin": {
+  "app": "./bin/app"
+ },
+ "scripts": {
+  "test": "comet test",
+  "start": "comet serve"
+ },
+ "devDependencies": {
+  ices:"^0.1.0"
+ },
+ "dependencies": {
+  "CometJS": "0.3.5"
+ }
+}
