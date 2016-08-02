@@ -11,7 +11,7 @@
   "start": "comet serve"
  },
  "devDependencies": {
-  ices:"^0.1.0"
+  "ices":"^0.1.0"
  },
  "dependencies": {
   "CometJS": "0.3.5"
