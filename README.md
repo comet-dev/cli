@@ -1,5 +1,5 @@
 <p align="center">
-<a href="http://www.comet-dev.com">
+<a href="http://comet-js.com">
 <img src="https://raw.githubusercontent.com/comet-dev/cli/master/Drawing%20(6).png" width="180">
 </a>
 </p>
